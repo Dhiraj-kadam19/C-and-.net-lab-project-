@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\bin\Debug\net8.0\UseSetGetMethod.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\bin\Debug\net8.0\UseSetGetMethod.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\bin\Debug\net8.0\UseSetGetMethod.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\bin\Debug\net8.0\UseSetGetMethod.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\bin\Debug\net8.0\UseSetGetMethod.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\obj\Debug\net8.0\UseSetGetMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\obj\Debug\net8.0\UseSetGetMethod.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\obj\Debug\net8.0\UseSetGetMethod.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\obj\Debug\net8.0\UseSetGetMethod.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\obj\Debug\net8.0\UseSetGetMethod.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\obj\Debug\net8.0\refint\UseSetGetMethod.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\obj\Debug\net8.0\UseSetGetMethod.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\obj\Debug\net8.0\UseSetGetMethod.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UseSetGetMethod\obj\Debug\net8.0\ref\UseSetGetMethod.dll
