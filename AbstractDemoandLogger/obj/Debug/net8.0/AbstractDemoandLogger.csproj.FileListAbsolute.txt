@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\bin\Debug\net8.0\AbstractDemoandLogger.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\bin\Debug\net8.0\AbstractDemoandLogger.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\bin\Debug\net8.0\AbstractDemoandLogger.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\bin\Debug\net8.0\AbstractDemoandLogger.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\bin\Debug\net8.0\AbstractDemoandLogger.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\obj\Debug\net8.0\AbstractDemoandLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\obj\Debug\net8.0\AbstractDemoandLogger.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\obj\Debug\net8.0\AbstractDemoandLogger.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\obj\Debug\net8.0\AbstractDemoandLogger.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\obj\Debug\net8.0\AbstractDemoandLogger.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\obj\Debug\net8.0\refint\AbstractDemoandLogger.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\obj\Debug\net8.0\AbstractDemoandLogger.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\obj\Debug\net8.0\AbstractDemoandLogger.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbstractDemoandLogger\obj\Debug\net8.0\ref\AbstractDemoandLogger.dll
