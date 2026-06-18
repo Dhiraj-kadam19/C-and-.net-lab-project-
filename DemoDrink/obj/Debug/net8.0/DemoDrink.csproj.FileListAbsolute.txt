@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\bin\Debug\net8.0\DemoDrink.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\bin\Debug\net8.0\DemoDrink.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\bin\Debug\net8.0\DemoDrink.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\bin\Debug\net8.0\DemoDrink.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\bin\Debug\net8.0\DemoDrink.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\obj\Debug\net8.0\DemoDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\obj\Debug\net8.0\DemoDrink.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\obj\Debug\net8.0\DemoDrink.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\obj\Debug\net8.0\DemoDrink.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\obj\Debug\net8.0\DemoDrink.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\obj\Debug\net8.0\refint\DemoDrink.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\obj\Debug\net8.0\DemoDrink.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\obj\Debug\net8.0\DemoDrink.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\DemoDrink\obj\Debug\net8.0\ref\DemoDrink.dll

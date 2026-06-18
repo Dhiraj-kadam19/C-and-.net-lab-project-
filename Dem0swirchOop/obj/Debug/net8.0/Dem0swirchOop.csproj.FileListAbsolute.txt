@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\bin\Debug\net8.0\Dem0swirchOop.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\bin\Debug\net8.0\Dem0swirchOop.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\bin\Debug\net8.0\Dem0swirchOop.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\bin\Debug\net8.0\Dem0swirchOop.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\bin\Debug\net8.0\Dem0swirchOop.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\obj\Debug\net8.0\Dem0swirchOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\obj\Debug\net8.0\Dem0swirchOop.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\obj\Debug\net8.0\Dem0swirchOop.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\obj\Debug\net8.0\Dem0swirchOop.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\obj\Debug\net8.0\Dem0swirchOop.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\obj\Debug\net8.0\refint\Dem0swirchOop.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\obj\Debug\net8.0\Dem0swirchOop.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\obj\Debug\net8.0\Dem0swirchOop.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Dem0swirchOop\obj\Debug\net8.0\ref\Dem0swirchOop.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\bin\Debug\net8.0\Demo01.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\bin\Debug\net8.0\Demo01.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\bin\Debug\net8.0\Demo01.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\bin\Debug\net8.0\Demo01.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\bin\Debug\net8.0\Demo01.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\obj\Debug\net8.0\Demo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\obj\Debug\net8.0\Demo01.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\obj\Debug\net8.0\Demo01.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\obj\Debug\net8.0\Demo01.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\obj\Debug\net8.0\Demo01.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\obj\Debug\net8.0\refint\Demo01.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\obj\Debug\net8.0\Demo01.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\obj\Debug\net8.0\Demo01.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\Demo01\obj\Debug\net8.0\ref\Demo01.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dem0swirchOop/1.0.0": {
+        "runtime": {
+          "Dem0swirchOop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dem0swirchOop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
