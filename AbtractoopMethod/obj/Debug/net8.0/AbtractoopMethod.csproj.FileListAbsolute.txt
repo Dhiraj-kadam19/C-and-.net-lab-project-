@@ -1,0 +1,4 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbtractoopMethod\obj\Debug\net8.0\AbtractoopMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbtractoopMethod\obj\Debug\net8.0\AbtractoopMethod.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbtractoopMethod\obj\Debug\net8.0\AbtractoopMethod.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\AbtractoopMethod\obj\Debug\net8.0\AbtractoopMethod.csproj.CoreCompileInputs.cache
