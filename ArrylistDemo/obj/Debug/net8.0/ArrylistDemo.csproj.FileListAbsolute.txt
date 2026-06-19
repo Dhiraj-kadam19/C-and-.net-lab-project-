@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\bin\Debug\net8.0\ArrylistDemo.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\bin\Debug\net8.0\ArrylistDemo.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\bin\Debug\net8.0\ArrylistDemo.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\bin\Debug\net8.0\ArrylistDemo.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\bin\Debug\net8.0\ArrylistDemo.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\obj\Debug\net8.0\ArrylistDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\obj\Debug\net8.0\ArrylistDemo.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\obj\Debug\net8.0\ArrylistDemo.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\obj\Debug\net8.0\ArrylistDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\obj\Debug\net8.0\ArrylistDemo.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\obj\Debug\net8.0\refint\ArrylistDemo.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\obj\Debug\net8.0\ArrylistDemo.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\obj\Debug\net8.0\ArrylistDemo.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ArrylistDemo\obj\Debug\net8.0\ref\ArrylistDemo.dll
