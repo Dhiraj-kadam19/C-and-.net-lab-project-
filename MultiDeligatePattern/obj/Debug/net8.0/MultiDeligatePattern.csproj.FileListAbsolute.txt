@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\bin\Debug\net8.0\MultiDeligatePattern.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\bin\Debug\net8.0\MultiDeligatePattern.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\bin\Debug\net8.0\MultiDeligatePattern.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\bin\Debug\net8.0\MultiDeligatePattern.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\bin\Debug\net8.0\MultiDeligatePattern.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\obj\Debug\net8.0\MultiDeligatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\obj\Debug\net8.0\MultiDeligatePattern.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\obj\Debug\net8.0\MultiDeligatePattern.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\obj\Debug\net8.0\MultiDeligatePattern.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\obj\Debug\net8.0\MultiDeligatePattern.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\obj\Debug\net8.0\refint\MultiDeligatePattern.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\obj\Debug\net8.0\MultiDeligatePattern.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\obj\Debug\net8.0\MultiDeligatePattern.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\MultiDeligatePattern\obj\Debug\net8.0\ref\MultiDeligatePattern.dll
