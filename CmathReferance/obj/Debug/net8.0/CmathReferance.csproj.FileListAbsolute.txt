@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\bin\Debug\net8.0\CmathReferance.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\bin\Debug\net8.0\CmathReferance.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\bin\Debug\net8.0\CmathReferance.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\bin\Debug\net8.0\CmathReferance.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\bin\Debug\net8.0\CmathReferance.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\obj\Debug\net8.0\CmathReferance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\obj\Debug\net8.0\CmathReferance.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\obj\Debug\net8.0\CmathReferance.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\obj\Debug\net8.0\CmathReferance.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\obj\Debug\net8.0\CmathReferance.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\obj\Debug\net8.0\refint\CmathReferance.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\obj\Debug\net8.0\CmathReferance.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\obj\Debug\net8.0\CmathReferance.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathReferance\obj\Debug\net8.0\ref\CmathReferance.dll

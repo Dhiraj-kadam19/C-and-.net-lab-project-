@@ -1,0 +1,4 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ClassLibProject1\obj\Debug\net8.0\ClassLibProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ClassLibProject1\obj\Debug\net8.0\ClassLibProject1.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ClassLibProject1\obj\Debug\net8.0\ClassLibProject1.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\ClassLibProject1\obj\Debug\net8.0\ClassLibProject1.csproj.CoreCompileInputs.cache

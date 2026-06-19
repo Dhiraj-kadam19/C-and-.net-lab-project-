@@ -1,0 +1,11 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\bin\Debug\net8.0\CLassLibrary.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\bin\Debug\net8.0\CLassLibrary.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\bin\Debug\net8.0\CLassLibrary.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\obj\Debug\net8.0\CLassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\obj\Debug\net8.0\CLassLibrary.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\obj\Debug\net8.0\CLassLibrary.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\obj\Debug\net8.0\CLassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\obj\Debug\net8.0\CLassLibrary.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\obj\Debug\net8.0\refint\CLassLibrary.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\obj\Debug\net8.0\CLassLibrary.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CLassLibrary\obj\Debug\net8.0\ref\CLassLibrary.dll

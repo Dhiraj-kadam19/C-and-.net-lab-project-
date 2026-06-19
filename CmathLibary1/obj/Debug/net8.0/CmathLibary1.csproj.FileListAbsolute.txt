@@ -1,0 +1,11 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\bin\Debug\net8.0\CmathLibary1.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\bin\Debug\net8.0\CmathLibary1.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\bin\Debug\net8.0\CmathLibary1.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\obj\Debug\net8.0\CmathLibary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\obj\Debug\net8.0\CmathLibary1.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\obj\Debug\net8.0\CmathLibary1.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\obj\Debug\net8.0\CmathLibary1.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\obj\Debug\net8.0\CmathLibary1.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\obj\Debug\net8.0\refint\CmathLibary1.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\obj\Debug\net8.0\CmathLibary1.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\CmathLibary1\obj\Debug\net8.0\ref\CmathLibary1.dll
