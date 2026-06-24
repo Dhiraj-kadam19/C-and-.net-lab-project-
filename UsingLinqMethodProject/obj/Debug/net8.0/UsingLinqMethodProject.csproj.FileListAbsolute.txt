@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\bin\Debug\net8.0\UsingLinqMethodProject.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\bin\Debug\net8.0\UsingLinqMethodProject.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\bin\Debug\net8.0\UsingLinqMethodProject.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\bin\Debug\net8.0\UsingLinqMethodProject.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\bin\Debug\net8.0\UsingLinqMethodProject.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\obj\Debug\net8.0\UsingLinqMethodProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\obj\Debug\net8.0\UsingLinqMethodProject.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\obj\Debug\net8.0\UsingLinqMethodProject.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\obj\Debug\net8.0\UsingLinqMethodProject.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\obj\Debug\net8.0\UsingLinqMethodProject.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\obj\Debug\net8.0\refint\UsingLinqMethodProject.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\obj\Debug\net8.0\UsingLinqMethodProject.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\obj\Debug\net8.0\UsingLinqMethodProject.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\UsingLinqMethodProject\obj\Debug\net8.0\ref\UsingLinqMethodProject.dll
