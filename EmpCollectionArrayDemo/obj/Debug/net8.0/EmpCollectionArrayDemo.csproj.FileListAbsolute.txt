@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\bin\Debug\net8.0\EmpCollectionArrayDemo.exe
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\bin\Debug\net8.0\EmpCollectionArrayDemo.deps.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\bin\Debug\net8.0\EmpCollectionArrayDemo.runtimeconfig.json
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\bin\Debug\net8.0\EmpCollectionArrayDemo.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\bin\Debug\net8.0\EmpCollectionArrayDemo.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\obj\Debug\net8.0\EmpCollectionArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\obj\Debug\net8.0\EmpCollectionArrayDemo.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\obj\Debug\net8.0\EmpCollectionArrayDemo.AssemblyInfo.cs
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\obj\Debug\net8.0\EmpCollectionArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\obj\Debug\net8.0\EmpCollectionArrayDemo.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\obj\Debug\net8.0\refint\EmpCollectionArrayDemo.dll
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\obj\Debug\net8.0\EmpCollectionArrayDemo.pdb
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\obj\Debug\net8.0\EmpCollectionArrayDemo.genruntimeconfig.cache
+C:\Users\IET\source\repos\FirstBlankprojectSolution\EmpCollectionArrayDemo\obj\Debug\net8.0\ref\EmpCollectionArrayDemo.dll
